@@ -77,7 +77,7 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Vue.js App',
-      selectedValue: 'Select more than 5 years',
+      selectedValue: 'Select more than 5 year',
       companyName: 'Type INFY'
     }
   },
